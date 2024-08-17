@@ -11,6 +11,7 @@
     "version": "0.41.0"
   },
   "dependencies": {
-    "expo": "^51.0.28"
+    "expo": "^51.0.28",
+    "expo-local-authentication": "~14.0.1"
   }
 }
