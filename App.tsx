@@ -25,6 +25,7 @@ import {
   ReloadInstructions,
 } from 'react-native/Libraries/NewAppScreen';
 
+import {multiply} from 'react-native-biometrics';
 type SectionProps = PropsWithChildren<{
   title: string;
 }>;
